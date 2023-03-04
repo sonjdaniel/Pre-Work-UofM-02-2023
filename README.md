@@ -17,8 +17,8 @@ There are two different ways to approach the use of this Prework Study Guide:
 
 ## Credits
 
-N/A
+I created all the code for this page, but it would not be possible without the instruction and guidance of the staff at the University of Minnesota Coding Boot Camp, nor without the resources at W3 Schools and the Mozilla Developers' Network.
 
 ## License
 
-Please refer to the MIT license in the repo.
+N/A
