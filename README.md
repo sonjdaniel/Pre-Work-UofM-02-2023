@@ -4,6 +4,8 @@
 
 I created this application to serve as a resource for future Boot Camp students. It is intended as a reliable guide to the topics involved in the Prework course work. In creating this project, I had the opportunity to review my basic HTML, CSS and JavaScript skills, and also to learn from the ground up to to manage my project workflow using Git.
 
+You can access this page at [this location](https://sonjdaniel.github.io/Pre-Work-UofM-02-2023/ "Daniel's Pre-Work").
+
 ## Installation
 
 N/A
